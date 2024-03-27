@@ -1,0 +1,157 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+    background: rgb(229 210 205);
+}
+a{
+text-decoration: none;
+color: black;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+    width: 370px;
+    background: rgb(208 167 157);
+}
+.zdjecie {
+    margin: 25px 0 0 0;
+}
+
+.naglowek2 {
+    color: white;
+}
+.kontakty {
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.pogrubienie {
+    font-weight: 700;
+}
+.lista2 {
+    color: rgb(151, 148, 147);
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.lista1 {
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+}
+.blokkontaktu {
+    margin: 51px 0 0 48px;
+}
+
+.umiejetnosciblok {
+    margin: 47px 0 0 40px;
+}
+
+.cechyblok {
+    margin: 47px 0 0 40px;
+}
+
+main {
+    padding-left: 88px;
+    padding-top: 102px;
+    padding-bottom: 102px;
+    padding-right: 88px;
+}
+
+.podpis {
+    width: 400px;
+}
+.air {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.opis {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+    margin-bottom: 40px;
+text-align: justify;
+
+}
+.media {
+    width: 485px;
+    margin-bottom: 51px;
+}
+.listanumerowana {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.linki {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+.naglowekglowny {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+.stanowiskopracy {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.miasto {
+    color: rgb(214, 99, 70);
+}
+.data {
+    color: rgb(214, 99, 70);
+}
+.listapracy {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.element {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.szkola {
+    color: rgb(214, 99, 70);
+}
